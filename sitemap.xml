@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite-url/en/%E6%AF%9B%E9%80%89%E8%AF%AD%E5%BD%95%E4%B8%80/%E6%AF%9B%E9%80%89%E8%AF%AD%E5%BD%95%E4%B8%80/</loc>
-    
-    <lastmod>2022-05-08</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite-url/cn/%E6%AF%9B%E9%80%89%E8%AF%AD%E5%BD%95%E4%B8%80/%E6%AF%9B%E9%80%89%E8%AF%AD%E5%BD%95%E4%B8%80/</loc>
     
     <lastmod>2022-05-08</lastmod>
@@ -23,6 +16,13 @@
   </url>
   
   <url>
+    <loc>http://yoursite-url/en/%E6%AF%9B%E9%80%89%E8%AF%AD%E5%BD%95%E4%B8%80/%E6%AF%9B%E9%80%89%E8%AF%AD%E5%BD%95%E4%B8%80/</loc>
+    
+    <lastmod>2022-05-08</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite-url/cn/%E6%AF%9B%E9%80%89%E8%AF%AD%E5%BD%95%E4%BA%8C/Hexo-Theme-LiveMyLife/</loc>
     
     <lastmod>2022-05-08</lastmod>
@@ -30,14 +30,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite-url/en/%E6%AF%9B%E9%80%89%E8%AF%AD%E5%BD%95%E4%BA%8C/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://yoursite-url/en/%E6%AF%9B%E9%80%89%E8%AF%AD%E5%BD%95%E4%B8%89/Hexo-Theme-LiveMyLife/</loc>
     
     <lastmod>2022-05-08</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite-url/en/%E6%AF%9B%E9%80%89%E8%AF%AD%E5%BD%95%E4%B8%89/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://yoursite-url/en/%E6%AF%9B%E9%80%89%E8%AF%AD%E5%BD%95%E4%BA%8C/Hexo-Theme-LiveMyLife/</loc>
     
     <lastmod>2022-05-08</lastmod>
     
